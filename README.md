@@ -109,35 +109,6 @@ This repository is under active development.
 
 ---
 
-# 📂 Project Structure
-
-```
-study-assistant-cli/
-│
-├── main.py
-│
-├── notes/
-│     ├── python.txt
-│     ├── ai.txt
-│     └── os.txt
-│
-├── saved/
-│     └── saved_answers.txt
-│
-├── exports/
-│     └── summary.txt
-│
-├── utils/
-│
-├── README.md
-│
-├── requirements.txt
-│
-└── LICENSE
-```
-
----
-
 #  Application Workflow
 
 ```
@@ -247,5 +218,5 @@ If you would like to improve the project, feel free to open an issue or submit a
 
 **Fatima Masood**
 
-Software Engineer • AI • Flutter
+Software Engineer • AI/ML • Flutter
 Building AI-powered applications one project at a time :)
