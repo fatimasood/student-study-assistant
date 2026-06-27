@@ -1,4 +1,9 @@
 
+from notes.upload_notes import upload_notes
+from notes.view_notes import view_notes
+from notes.search_notes import search_notes
+
+
 def show_menu():
 
     print("You can select an option according to your need:")
