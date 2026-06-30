@@ -219,4 +219,5 @@ If you would like to improve the project, feel free to open an issue or submit a
 **Fatima Masood**
 
 Software Engineer • AI/ML • Flutter
+
 Building AI-powered applications one project at a time :)
